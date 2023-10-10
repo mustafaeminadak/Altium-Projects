@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=R_RS485_P Pin=J8-1
+Removed Pin From Net: NetName=R_RS485_N Pin=J8-2
+Removed Pin From Net: NetName=T_RS485_N Pin=J8-3
+Removed Pin From Net: NetName=T_RS485_P Pin=J8-4
+Added Pin To Net: NetName=T_RS485_P Pin=J8-1
+Added Pin To Net: NetName=T_RS485_N Pin=J8-2
+Added Pin To Net: NetName=R_RS485_N Pin=J8-3
+Added Pin To Net: NetName=R_RS485_P Pin=J8-4
+Added Room: Name=Connectors
+Added Room: Name=Microcontroller
+Added Room: Name=PowerManagement
